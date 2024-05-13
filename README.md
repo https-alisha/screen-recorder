@@ -1,4 +1,4 @@
-
+```markdown
 # Simple Python Screen Recorder
 
 This is a simple screen recorder tool created using Python by NeuralNine.
@@ -10,7 +10,7 @@ To use this screen recorder, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/username/repository.git
+git clone https://github.com/https-alisha/screen-recorder.git
 ```
 
 2. Navigate to the directory containing the script.
@@ -26,7 +26,7 @@ pip install opencv-python pyautogui
 To start recording your screen, run the following command:
 
 ```
-python screen_recorder.py
+python main.py
 ```
 
 The recording will start immediately. To stop the recording, press `q`.
@@ -57,3 +57,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```
+```
