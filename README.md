@@ -1,4 +1,4 @@
-```markdown
+
 # Simple Python Screen Recorder
 
 This is a simple screen recorder tool created using Python by NeuralNine.
